@@ -1,0 +1,2 @@
+# KwiCash
+This app will utilize ATM’s, scanners, and smart phones to make an easy way for people to give each other some cash. The user will enter bank information into the app, enter information about the receiver, and then send a QR code to the receiver’s phone. The receiver will then open the QR code, scan it at any ATM, and the ATM will spit out a speciﬁed amount of cash given by the QR code. That amount will then be taken out of the sender’s bank account and the transaction is complete.
